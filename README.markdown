@@ -31,4 +31,4 @@ asyncio.run(main())
 OpenMDW v1.0 - Free core. Premium tiers ($24.99) at [gumroad.com/salvatore](https://gumroad.com/salvatore).
 
 ## Join Us
-Star, fork, join the truth hunt on X @YourHandle! #AI #TruthSeeking
+Star, fork, join the truth hunt on X @Johnallnight! #AI #TruthSeeking
